@@ -9,6 +9,9 @@ AI tools such as ChatGPT were primarily used for debugging support rather than f
 **Document:** `Wikipedia_Analysis.pdf`
 
 ### Visualizations  
+
+Download the html files to see the graphs on ur local machine.
+
 **Graphs:**  
 - `example.html`  
 - `subgraph.html`
